@@ -1,1 +1,2 @@
+GOOGLE EARTH ENGINE
 Script para exportar las bandas medianas de imágenes Sentinel-2 (2LA y 2LB) correspondientes a la estación seca (mayo–octubre) entre 2017 y 2024. El AOI es modificable; por defecto se utiliza el Salar de Pozuelos.
